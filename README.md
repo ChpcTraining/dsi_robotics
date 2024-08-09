@@ -21,3 +21,7 @@ Download Arduino here: https://www.arduino.cc/en/main/software
 Pin 4
 
 ![image](https://github.com/user-attachments/assets/fc3013bb-2622-4c34-a426-79ccc68fa84c)
+
+### 2 Servos
+
+![image](https://github.com/user-attachments/assets/f9242960-06db-4aea-a212-79fb910b8dcd)
