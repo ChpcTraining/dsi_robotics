@@ -25,3 +25,27 @@ Pin 4
 ### 2 Servos
 
 ![image](https://github.com/user-attachments/assets/f9242960-06db-4aea-a212-79fb910b8dcd)
+
+
+# Resources
+
+https://s4a.cat/
+
+https://www.youtube.com/watch?v=O7naf3m2lh0
+
+https://www.youtube.com/watch?v=0yjqoR-hPAI
+
+Pre-install firmware on all arduinos
+- test to make sure they all work
+
+Show them scratch first
+
+Then arduino cc, 
+
+hello world code
+
+https://www.youtube.com/watch?v=2MOFAHGUGps
+
+https://www.robofactory.co.za/motor-controllers/604-pan-and-tilt-kit-for-sg90-servo-servos-excluded.html?gad_source=1&gclid=CjwKCAjw5Ky1BhAgEiwA5jGujia0YZ-SLYTbwB91uPSO-H30YHYDTfyufX7glVjUablXVaeZU0NjmRoC3fIQAvD_BwE
+
+https://www.communica.co.za/products/hkd-robot-gripper-arm-4-servos?variant=40351921733705
