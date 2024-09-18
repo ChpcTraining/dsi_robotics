@@ -145,6 +145,9 @@ In this session we'll use servos for the first time. The mmain part of
 the exercise is to create a robot hand controlled by the computer
 keyboard. 
 
+![image](https://github.com/user-attachments/assets/0d4adf1b-cd1f-48ac-80ba-3a1099772708)
+
+
 As shown in the diagram, each servo
 has 3 wires: one red (5V), one black
 (GND) and one yellow, which will be
