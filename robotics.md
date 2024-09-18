@@ -71,6 +71,14 @@ board to work properly with S4A.
 Both the installer and firmware can be downloaded from our
 website: http://seaside.citilab.eu
 
+![image](https://github.com/user-attachments/assets/36ef7b00-b901-4f74-b4df-ab0e89bd5a2b)
+
+## Other options
+
+Arduino IDE
+
+https://www.instructables.com/Electronic-Playground-With-Arduino-and-Scratch-2/
+
 # Pin mapping in S4A:
 
 ● Digital read: digital pins 2 and 3.
