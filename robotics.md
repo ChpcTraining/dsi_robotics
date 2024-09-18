@@ -86,9 +86,7 @@ website: http://seaside.citilab.eu
 
 ![image](https://github.com/user-attachments/assets/b8b5938c-5ae8-4e79-a889-4cfb9b83b832)
 
-
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/34de25b0-d374-4ecc-b11e-48aa55e450c5)
 
 
 Reference: https://www.instructables.com/Physical-Computing-Scratch-for-Arduino/
