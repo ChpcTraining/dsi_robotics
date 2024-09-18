@@ -73,11 +73,33 @@ website: http://seaside.citilab.eu
 
 ![image](https://github.com/user-attachments/assets/36ef7b00-b901-4f74-b4df-ab0e89bd5a2b)
 
+![image](https://github.com/user-attachments/assets/60412ca0-b6a5-4076-b52d-49a0e6711023)
+
+![image](https://github.com/user-attachments/assets/9375cc42-1fc9-48c8-a221-a271f04751b2)
+
+![image](https://github.com/user-attachments/assets/95aa271e-7829-4b42-a3d5-f5137c1d54d9)
+
+
+![image](https://github.com/user-attachments/assets/6f56db4f-df78-43d0-a2ea-f07a6cbd16a4)
+
+![image](https://github.com/user-attachments/assets/2b45299e-0ce0-48b0-8fa7-3d95d5e5a0b1)
+
+![image](https://github.com/user-attachments/assets/b8b5938c-5ae8-4e79-a889-4cfb9b83b832)
+
+
+
+
+
+
+
+
 ## Other options
 
 Arduino IDE
 
 https://www.instructables.com/Electronic-Playground-With-Arduino-and-Scratch-2/
+
+https://maker.pro/arduino/tutorial/how-to-program-an-arduino-with-the-scratch-programming-language-using-mblock
 
 # Pin mapping in S4A:
 
